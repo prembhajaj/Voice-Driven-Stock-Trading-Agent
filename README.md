@@ -13,7 +13,7 @@ AssemblyAI, and Cartesia.
    python -m venv .venv
 
    .venv\Scripts\activate
-   
+
    pip install -r requirements.txt
 
 2. Set API keys (example names used by the code):
@@ -32,4 +32,4 @@ AssemblyAI, and Cartesia.
 ## Notes
 
 - The server exposes a WebSocket endpoint at /ws that expects PCM audio frames.
-- This is a direct copy of the doc snippets plus minimal glue for a runnable layout.
+
