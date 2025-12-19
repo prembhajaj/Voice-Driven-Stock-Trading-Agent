@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+websockets
+langchain
+langchain-core
+langgraph
+langchain-google-genai
